@@ -1,3 +1,16 @@
-.vscode/
 *.exe
 *.o
+*.obj
+
+
+build/
+debug/
+release/
+
+
+.env
+.env.*
+!.env.example
+
+
+.vscode/
